@@ -18,7 +18,7 @@
 
 ## 👤 Bio
 
-Hi! I’m **Mohammed Aboelsoud** (aboelsoud13), a student on a journey to explore the endless possibilities of technology, creativity, and learning. I thrive on curiosity and am always eager to dive into new challenges—whether it's building something with code, analyzing data, or crafting stories.  
+Hi! I’m **Mohammed Aboelsoud** , a student on a journey to explore the endless possibilities of technology, creativity, and learning. I thrive on curiosity and am always eager to dive into new challenges—whether it's building something with code, analyzing data, or crafting stories.  
 I believe in the power of open-source, the magic of collaboration, and the joy of sharing knowledge. My goal is to grow, help others grow, and make a positive impact through everything I create.
 
 ---
