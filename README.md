@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1e2e&height=260&section=header&text=aboelsoud13%20%F0%9F%96%A5%EF%B8%8F&fontSize=55&fontAlignY=44&desc=Student%20%7C%20Aspiring%20Developer%20%7C%20Curious%20Mind&descAlignY=70&descSize=22" alt="aboelsoud13 Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e1e2e&height=260&section=header&text=aboelsoud13%20%F0%9F%96%A5%EF%B8%8F&fontSize=55&fontAlignY=44&desc=Student%20%7C%20Aspiring%20Developer%20%7C%20Curious%20Mind&descAlignY=70&descSize=22" alt="Mohammed Aboelsoud Banner" />
 </p>
 
 <h1 align="center">Hey there! I'm <span style="color:#4F8EEF"> Mohammmed Aboelsoud</span> 👋</h1>
