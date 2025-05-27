@@ -18,8 +18,8 @@
 
 ## 👤 Bio
 
-Hi! I’m **Mohammed Aboelsoud** , a student on a journey to explore the endless possibilities of technology, creativity, and learning. I thrive on curiosity and am always eager to dive into new challenges—whether it's building something with code, analyzing data, or crafting stories.  
-I believe in the power of open-source, the magic of collaboration, and the joy of sharing knowledge. My goal is to grow, help others grow, and make a positive impact through everything I create.
+Hi! I’m **Mohammed Aboelsoud**, a student on a journey to explore the endless possibilities of technology, creativity, and learning. I thrive on curiosity and am always eager to dive into new challenges, whether it's building something with code, analysing data, or crafting stories.  
+I believe in the power of open-source, the magic of collaboration, and the joy of sharing knowledge. My goal is to grow, help others succeed, and make a positive impact through everything I create.
 
 ---
 
@@ -27,14 +27,14 @@ I believe in the power of open-source, the magic of collaboration, and the joy o
 
 **Welcome to my GitHub profile!**
 
-I'm a passionate student from Egypt, interested in everything from coding and data science to language, storytelling, and game development.  
-Currently experimenting with Python, automation, and creative projects—always looking for new things to learn and new people to connect with!
+I'm a passionate student from Egypt, interested in a wide range of topics, including coding, data science, language, storytelling, and game development.  
+Currently experimenting with Python, automation, and creative projects, always looking for new things to learn and new people to connect with!
 
 ---
 
 ## 🏆 Quick Facts
 
-| 💡 |  My name is Mohammed Aboelsoud (aboelsoud13)                      |
+| 💡 |  My name is Mohammed Aboelsoud   |
 |----|-------------------------------------------------------------------|
 | 🎓 | **Background:** Student with a passion for tech, languages, and self-learning |
 | 🌱 | **Currently learning:** Python, automation, game development, data science, creative writing |
@@ -76,7 +76,7 @@ _Experiments in game development and interactive storytelling._
 [![Work In Progress](https://img.shields.io/badge/Status-WIP-orange?style=flat&logo=github)](https://github.com/aboelsoud13/game-dev-playground)
 
 **📊 [Data Explorer](https://github.com/aboelsoud13/data-explorer)**  
-_Tools and scripts for exploring and visualizing data in creative ways._  
+_Tools and scripts for exploring and visualising data in creative ways._  
 [![Work In Progress](https://img.shields.io/badge/Status-WIP-orange?style=flat&logo=github)](https://github.com/aboelsoud13/data-explorer)
 
 *Want to see more? Check out my pinned repositories!*
