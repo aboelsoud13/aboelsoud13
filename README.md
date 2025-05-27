@@ -89,7 +89,7 @@ _Tools and scripts for exploring and visualizing data in creative ways._
   <a href="mailto:aboelsoud13@gmail.com">
     <img src="https://img.shields.io/badge/email-aboelsoud13@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <!--
+  
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -99,7 +99,7 @@ _Tools and scripts for exploring and visualizing data in creative ways._
   <a href="https://aboelsoud13.github.io">
     <img src="https://img.shields.io/badge/Website-aboelsoud13.github.io-brightgreen?style=for-the-badge&logo=githubpages" alt="Website" />
   </a>
-  -->
+  
 </p>
 <p align="center">
   <i>Feel free to reach out for collaboration, questions, or just to say hi 👋</i>
